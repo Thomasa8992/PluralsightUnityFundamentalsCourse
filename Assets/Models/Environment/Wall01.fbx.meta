@@ -3,7 +3,17 @@ guid: 0ecf7a9dbfdf6534790ff92fba2e8275
 ModelImporter:
   serializedVersion: 26
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FlatRocks
+    second: {fileID: 2100000, guid: f26f5e607cbb604409de686e7f2887ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TrimSheet
+    second: {fileID: 2100000, guid: 4cb5b7faa587b1a47bdee0f1bfc6e6aa, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
